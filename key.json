@@ -1,0 +1,10 @@
+{"web":
+  {
+    "client_id":"593691865161-knmluaf7uppg3mr2ltj191kpi90nug02.apps.googleusercontent.com","project_id":"tita-tech-test",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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",
+    "redirect_uris":["http://localhost:3000"],
+    "javascript_origins":["http://localhost:3000"]
+  }
+}
